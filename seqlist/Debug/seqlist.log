@@ -1,0 +1,16 @@
+﻿生成启动时间为 2017/4/24 14:22:11。
+     1>项目“E:\curriculum\数据结构与算法\C++\seqlist\seqlist.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\seqlist.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Seqlist.cpp list.cpp
+         list.cpp
+     1>e:\curriculum\数据结构与算法\c++\seqlist\list.cpp(1): fatal error C1083: 无法打开包括文件:“iostream”: No such file or directory
+         Seqlist.cpp
+     1>e:\curriculum\数据结构与算法\c++\seqlist\seqlist.cpp(2): fatal error C1083: 无法打开包括文件:“iostream”: No such file or directory
+         正在生成代码...
+     1>已完成生成项目“E:\curriculum\数据结构与算法\C++\seqlist\seqlist.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.20
